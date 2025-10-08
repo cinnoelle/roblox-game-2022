@@ -1,4 +1,4 @@
-local badgeID = 4440994359144064 -- Change this ID YOUR badge ID
+local badgeID = 4440994359144064
 local badgeService = game:GetService("BadgeService")
 
 game.Players.PlayerAdded:Connect(function(player)
