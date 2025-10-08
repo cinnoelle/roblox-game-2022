@@ -9,6 +9,6 @@ It has 26.3 million visits as well as 165k favorites, and a community I've made 
 - Obstacle components (disappearing parts, coded damaging parts)
 
 Images:
-studioss.png - shows GUI, some models, a piece of my game
-studioss2.png - shows leaderboard, gravity coil, top right stage + rebirth amt (script: GravityCoilScript.rbxm)
-progressimage.png + progressimage2.png - early progress of my game
+- studioss.png - shows GUI, some models, a piece of my game
+- studioss2.png - shows leaderboard, gravity coil, top right stage + rebirth amt
+- progressimage.png + progressimage2.png - early progress of my game
