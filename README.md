@@ -1,3 +1,5 @@
+NOTE: The original game is no longer available to play. This repository serves as a portfolio of my previous development work.
+
 My roblox game code; game is linked.
 I have not updated it yet unfortunately, as I got busy with college coursework. It's currently unplayable, but images of the game are included.
 This game was designed and developed by me.
