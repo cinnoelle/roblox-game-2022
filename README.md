@@ -25,5 +25,5 @@ The original game is no longer available to play. This repository showcases my p
 ## Images
 - [Roblox Studio - Game Environment & GUI](studioss.png)
 - [Roblox Studio - Leaderboard & Gameplay Systems](studioss2.png)
-- [Early Game Progress](progressimage.png)
-- [Additional Game Progress](progressimage2.png)
+- [Early Game Progress](progressimage2.png)
+- [Additional Game Progress](progressimage.png)
