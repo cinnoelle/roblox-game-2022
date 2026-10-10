@@ -1,16 +1,29 @@
-NOTE: The original game is no longer available to play. This repository serves as a portfolio of my previous development work.
+# Roblox Game Development (2022–2023)
 
-My roblox game code; game is linked.
-I have not updated it yet unfortunately, as I got busy with college coursework. It's currently unplayable, but images of the game are included.
-This game was designed and developed by me.
-It has 26.3 million visits as well as 165k favorites, and a community I've made with 31k+ members!
+A Roblox obstacle course game I created using Roblox Studio and Lua. The game reached over 19 million visits and 165K favorites, and I built a community of over 30K members.
 
-- Custom player save / rebirth systems implemented
-- In-game reward system through the completion rebirths
-- In-game time leaderboard (shown in studioss2.png)
-- Obstacle components (disappearing parts, coded damaging parts)
+This project gave me experience with programming gameplay systems, designing user interfaces, and developing 3D environments.
 
-Images:
-- studioss.png - shows GUI, some models, a piece of my game
-- studioss2.png - shows leaderboard, gravity coil, top right stage + rebirth amt
-- progressimage.png + progressimage2.png - early progress of my game
+## Features I Developed
+- Checkpoint and stage progression system
+- Player data saving and rebirth system
+- Rewards for completing rebirths
+- Time leaderboard and stage tracking
+- Interactive obstacles, including disappearing and damaging parts
+- In-game purchases and skip-stage features
+- Custom GUI elements
+
+## Technologies
+- Roblox Studio
+- Lua
+- 3D Modeling
+- UI Design
+
+## Project Status
+The original game is no longer available to play. This repository showcases my previous development work, including Lua scripts and examples of the game's features.
+
+## Images
+- [Roblox Studio - Game Environment & GUI](studioss.png)
+- [Roblox Studio - Leaderboard & Gameplay Systems](studioss2.png)
+- [Early Game Progress](progressimage.png)
+- [Additional Game Progress](progressimage2.png)
